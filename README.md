@@ -1,5 +1,5 @@
 <h1 align="center" >Hi 👋 , I'm Abdelhamid CHEBEL</h1>
-<h3 align="center" font-style= "italique">JavaScript Developer Junior from Morocco</h3>
+<h3 align="center" >JavaScript Developer Junior from Morocco</h3>
 
  <img align="center" height= "500"  src="https://wallpaperaccess.com/full/8901669.jpg" alt="MERN Stack" text-align: center>
 
