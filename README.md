@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdelhamid2c]([[https://github.com/abdelhamid2c](https://github.com/Abdelhamid2c?tab=repositories)](https://github.com/abdelhamid2c))
+- 👨‍💻 All of my projects are available at [https://github.com/abdelhamid2c](https://github.com/abdelhamid2c)
 
 - 💬 Ask me about **pyhton , MERN**
 
