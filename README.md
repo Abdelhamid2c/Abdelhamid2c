@@ -1,8 +1,11 @@
 <h1 align="center" >Hi 👋 , I'm Abdelhamid CHEBEL</h1>
-<h3 align="center" >JavaScript Developer Junior from Morocco</h3>
+<h3 align="center" >Data Scientist Junior from Morocco</h3>
 
- <img align="center" height= "500"  src="https://wallpaperaccess.com/full/8901669.jpg" alt="MERN Stack" text-align: center>
 
+<!--
+<img align="center" height= "500"  src="https://wallpaperaccess.com/full/8901669.jpg" alt="MERN Stack" text-align: center>
+
+-->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelhamid2c&label=Profile%20views&color=0e75b6&style=flat" alt="abdelhamid2c" /> </p>
