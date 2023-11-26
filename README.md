@@ -14,11 +14,11 @@
 
 - 📚 I'm currently studying **at ENSA Safi**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdelhamid2c](https://github.com/abdelhamid2c)
 
-- 💬 Ask me about **pyhton , MERN**
+- 💬 Ask me about **pyhton , MERN , SQL**
 
 - 📫 How to reach me **abdelhamidchebel25@gmail.com**
 
