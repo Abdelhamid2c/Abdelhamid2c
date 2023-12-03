@@ -3,7 +3,7 @@
 
 
 
-<img align="center" height= "250"   src="https://github.com/Abdelhamid2c/assets/blob/main/Jr%20Data%20scientist.png" alt="Data Science" text-align: center>
+<img align="center" height= "250"  wieght = "150" src="https://github.com/Abdelhamid2c/assets/blob/main/Jr%20Data%20scientist.png" alt="Data Science" text-align: center>
 
 
 
