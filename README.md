@@ -14,7 +14,7 @@
 
 - 📚 I'm currently studying **at ENSA Safi**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdelhamid2c](https://github.com/abdelhamid2c)
 
